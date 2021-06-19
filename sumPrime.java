@@ -4,7 +4,7 @@ import java.util.Scanner;
   
   public static void main(String[] args) {
       Scanner scn = new Scanner(System.in);
-      System.out.print("enter the number :-  ");
+      System.out.print("Enter the number :-  ");
               int n = scn.nextInt();
               scn.close();
               int sum=0;

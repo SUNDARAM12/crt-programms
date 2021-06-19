@@ -5,7 +5,7 @@ public class dicrium {
     public static void main(String args[])
         {
             Scanner sc = new Scanner(System.in);
-            System.out.print("Input a number : ");
+            System.out.print("enter a number : ");
             int num = sc.nextInt();
             int copy = num, d = 0, sum = 0;
             String s = Integer.toString(num);  

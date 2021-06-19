@@ -13,6 +13,6 @@ import java.util.Scanner;
               count++;
               n=n/10;
           }
-          System.out.print("length of given number is "+count);
+          System.out.print("length of given number is :- "+count);
     }
 }

@@ -4,9 +4,9 @@ import java.util.Scanner;
   
   public static void main(String[] args) {
       Scanner scn = new Scanner(System.in);
-      System.out.print("enter the 1st number :-  ");
+      System.out.print("Enter the 1st number :-  ");
               int n1 = scn.nextInt();
-              System.out.print("enter the 2nd number :-  ");
+              System.out.print("Enter the 2nd number :-  ");
                 int n2 = scn.nextInt();
                 scn.close();
        if(n1>n2){

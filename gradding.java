@@ -9,7 +9,7 @@ public class gradding{
            System.out.print("Enter Marks of Subject"+(i+1)+":");
            marks[i] = scanner.nextInt();
           if(marks[i]<35){
-             System.out.println("failed");
+             System.out.println("failed!!!");
          } if(marks[i]>=35) {
                total = total + marks[i];
                avg = total/(float)5;

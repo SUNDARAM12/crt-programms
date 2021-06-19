@@ -9,7 +9,7 @@ public class singledigit {
             System.out.println("True");
         }
         else{
-            System.out.println("false");
+            System.out.println("False");
         }
 
 

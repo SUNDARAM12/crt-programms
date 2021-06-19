@@ -14,7 +14,7 @@ import java.util.*;
               System.out.println("Random Number is :"+rand_num);
               if(b_num==rand_num){
                   banu_money += 1;
-                  System.out.println("Money left :- "+banu_money);
+                  System.out.println("Money left :-  "+banu_money);
 
               }
               else if (b_num!=rand_num){

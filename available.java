@@ -18,7 +18,7 @@ import java.util.Scanner;
               n=n/10;
          }
          if(n==0)
-         System.out.print("number is not persent...");
+         System.out.print("number is not persent....");
 
   }
 }

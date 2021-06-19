@@ -7,10 +7,10 @@ public class sunny {
         scn.close();
         int temp=(int)(Math.sqrt(n+1));
         if(temp*temp==n+1){
-            System.out.println("true");
+            System.out.println("True");
         }
         else{
-            System.out.println("false");
+            System.out.println("False");
         }
 
     }

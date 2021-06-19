@@ -3,8 +3,8 @@ public class spy {
  
     public static void main(String[] args)
     {
-        Scanner scn = new Scanner(System.in);
-        long n = scn.nextLong();
+        Scanner sc = new Scanner(System.in);
+        long n = sc.nextLong();
        // scn.close();
         if(Sum(n)==Product(n))
         {

@@ -26,11 +26,11 @@ result = checkHappyNumber(result);
 }
 if (result ==1)
 {
-System.out.println ("It is a Happy Number");
+System.out.println ("It is a Happy Number...");
 }
 else
 {
-System.out.println (" It is not a Happy Number");
+System.out.println (" It is not a Happy Number...");
 }
 }
 }

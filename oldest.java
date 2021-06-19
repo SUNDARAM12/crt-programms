@@ -4,11 +4,11 @@ import java.util.Scanner;
   
   public static void main(String[] args) {
       Scanner scn = new Scanner(System.in);
-      System.out.print("enter the age of 1st brother :-  ");
+      System.out.print("Enter the age of 1st brother :-  ");
           int n1 = scn.nextInt();
-            System.out.print("enter the age of 2nd brother :-  ");
+            System.out.print("Enter the age of 2nd brother :-  ");
                int n2 = scn.nextInt();
-                System.out.print("enter the age of 3nd brother :-  ");
+                System.out.print("Enter the age of 3nd brother :-  ");
                    int n3 = scn.nextInt();
                 scn.close();
                 if(n1>n2 && n1>n3){

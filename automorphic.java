@@ -12,7 +12,7 @@ public class automorphic {
         String square = Integer.toString(sq_num);  
  
         if(square.endsWith(str_num))  
-            System.out.println("Automorphic Number.");
+            System.out.println("Automorphic Number..");
         else
             System.out.println("Not an Automorphic Number.");
     }

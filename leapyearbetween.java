@@ -5,7 +5,7 @@ public static void main(String[] args)
 {
 
 Scanner sc = new Scanner (System.in);
-System.out.print("enter starting and ending year respectively :- ");
+System.out.print("enter the starting and ending year respectively :- ");
 int start=sc.nextInt();
 int end=sc.nextInt();
 sc.close();
